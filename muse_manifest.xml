@@ -1,88 +1,156 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1609406086438">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611055145518">
   <folder name="css">
-    <file name="site_global.css" crc="4194206060"/>
-    <file name="2.css" crc="387763931" ref="2"/>
-    <file name="1.css" crc="274377758" ref="1"/>
-    <file name="3.css" crc="216567749" ref="3"/>
-    <file name="index.css" crc="366453231" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4069990903" ref="index"/>
+    <file name="1__.css" crc="15911309" ref="1副本"/>
+    <file name="1.css" crc="120088233" ref="1"/>
+    <file name="music.css" crc="303501586" ref="music"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3"/>
-    <file name="museutils.js" crc="3803043152" ref="index:1:2:3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:1:2:3"/>
-    <file name="museconfig.js" crc="380897831" ref="index:1:2:3"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:1:2:3"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:1:2:3"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:1副本:music"/>
+    <file name="museutils.js" crc="3803043152" ref="index:1:1副本:music"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:1副本:music"/>
+    <file name="museconfig.js" crc="380897831" ref="index:1:1副本:music"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:1:1副本:music"/>
+    <file name="require.js" crc="4157109226" ref="index:1:1副本:music"/>
+    <file name="webpro.js" crc="242022427" ref="1"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="1"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="1"/>
+    <file name="touchswipe.js" crc="4066113679" ref="1"/>
   </folder>
   <folder name="images">
-    <file name="ame chan cookingu2.jpg" crc="4244370965" ref="index">
+    <file name="asilor.jpg" crc="4276419015" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asilor.jpg" crc="46524573" seo="true" ref="index">
+    <file name="twxt301x33.png" crc="4075062004" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asilor_2x.jpg" crc="4088004592" seo="true" ref="index">
+    <file name="twxt301x33_2x.png" crc="4075062004" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="miggggy.jpg" crc="3791743973" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="mico舊.jpg" crc="517723721" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="miggggy_2x.jpg" crc="47853929" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="mico舊_2x.jpg" crc="3909323701" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="mignoe-crop-u491.jpg" crc="314816068" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="1"/>
+    <file name="juunkosan.png" crc="3976186427" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="mignoe-crop-u491_2x.jpg" crc="3906236140" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="juunkosan_2x.png" crc="3844287668" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="orange-crop-u517.jpg" crc="3833630675" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="whitepink2d.png" crc="324188190" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="orange-crop-u517_2x.jpg" crc="283416520" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="whitepink2d_2x.png" crc="3669881" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="saira4-crop-u543.jpg" crc="272784116" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="xmas.png" crc="3901508303" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="saira4-crop-u543_2x.jpg" crc="4046281054" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="xmas_2x.png" crc="4254531558" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="witchie2.jpg" crc="66172479" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="hinata花-crop-u410.png" crc="163876167" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="witchie2_2x.jpg" crc="36818482" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="hinata花-crop-u410_2x.png" crc="4127823639" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="button.jpg" crc="3871366524" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="mi.jpg" crc="3944054997" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="button_2x.jpg" crc="151889523" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="mi_2x.jpg" crc="497135007" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="button-jawa.jpg" crc="4271827646" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="sonic6.png" crc="511108402" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="button-jawa_2x.jpg" crc="423746040" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="sonic6_2x.png" crc="4258020351" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="button-hoshi chan (1).jpg" crc="4099884744" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="taiwan5-crop-u493.png" crc="3978934111" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
     </file>
-    <file name="button-hoshi chan (1)_2x.jpg" crc="124376401" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="taiwan5-crop-u493_2x.png" crc="295145165" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="witchie2-crop-u604.jpg" crc="114933947" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="witchie2-crop-u604_2x.jpg" crc="437152117" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="mico舊-crop-u227.jpg" crc="4180596252" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="mico舊-crop-u227_2x.jpg" crc="171333171" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="juunkosan-crop-u337.png" crc="3789058860" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="juunkosan-crop-u337_2x.png" crc="455412326" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="whitepink2d-crop-u362.png" crc="3829698255" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="whitepink2d-crop-u362_2x.png" crc="329152644" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="xmas-crop-u389.png" crc="3989828386" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="xmas-crop-u389_2x.png" crc="489411184" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="hinata花-crop-u416.png" crc="3833805836" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="hinata花-crop-u416_2x.png" crc="3811414155" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="mi-crop-u444.jpg" crc="4096402445" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="mi-crop-u444_2x.jpg" crc="4080495051" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="sonic6-crop-u471.png" crc="401265199" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="sonic6-crop-u471_2x.png" crc="376398325" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="taiwan560x56.png" crc="404636978" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="taiwan560x56_2x.png" crc="4086735681" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="witchie2-crop-u610.jpg" crc="4280272681" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="witchie2-crop-u610_2x.jpg" crc="106886289" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="1"/>
+    <file name="twxt.png" crc="4075062004" seo="true" ref="1:1副本:music">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1副本" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="twxt_2x.png" crc="4075062004" seo="true" ref="1:1副本:music">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1副本" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3768687604" seo="true" mt="1609406081517" redirect="true"/>
-  <file name="1.html" crc="4187339090" seo="true" mt="1608197628250" redirect="true"/>
-  <file name="2.html" crc="353586730" seo="true" mt="1608197629319" redirect="true"/>
-  <file name="3.html" crc="4091936737" seo="true" mt="1608197630464" redirect="true"/>
+  <file name="index.html" crc="3801823718" seo="true" mt="1610986524757" redirect="true"/>
+  <file name="1.html" crc="4130501027" seo="true" mt="1610988644179" redirect="true"/>
+  <file name="1副本.html" crc="413558579" seo="true" mt="1610988744687" redirect="true"/>
+  <file name="music.html" crc="175498292" seo="true" mt="1610988734373" redirect="true"/>
 </manifest>
